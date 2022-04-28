@@ -8,4 +8,4 @@
   <li>Jquery</li>
 </ol>
 <h1> Project is hosted here: </h1> 
-<a href="">Simon-Game</a>
+<a href="https://aakanksha717.github.io/Simon-Game/">Simon-Game</a>
